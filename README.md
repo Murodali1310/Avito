@@ -1,4 +1,3 @@
-```markdown
 # Avito Shop Service
 
 Привет! Это наш backend для магазина мерча Avito. Сервис позволяет:
